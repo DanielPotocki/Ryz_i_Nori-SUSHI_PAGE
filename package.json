@@ -1,0 +1,15 @@
+{
+  "name": "ryz_i_nori",
+  "version": "1.0.0",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Daniel Potocki",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2"
+  }
+}
